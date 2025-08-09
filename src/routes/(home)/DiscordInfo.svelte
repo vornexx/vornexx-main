@@ -62,8 +62,7 @@
 			<p class="flex items-center text-sm">
 				{#if customStatus.emoji}
 					<img
-						src="https://cdn.discordapp.com/emojis/{customStatus
-							.emoji.id}.png"
+						src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/2744.svg"
 						alt=""
 						class="w-5 h-5 mr-1"
 					/>
